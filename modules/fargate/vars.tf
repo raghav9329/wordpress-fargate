@@ -31,7 +31,7 @@ variable "alb_security_group_id" {
 
 variable "app_name" {
   type        = string
-  description = "(optional) describe your variable"
+  description = " describe your variable"
 }
 
 variable "az_count" {}
